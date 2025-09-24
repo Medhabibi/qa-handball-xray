@@ -1,0 +1,1 @@
+# qa-handball-management
